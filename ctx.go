@@ -107,7 +107,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/spacemonkeygo/spacelog"
+	"github.com/Psiphon-Inc/spacelog"
 )
 
 var (
